@@ -6,7 +6,6 @@
 #include <queue>
 
 using namespace std;
-
 const int N = 1010;
 typedef pair<int, int> pii;
 
